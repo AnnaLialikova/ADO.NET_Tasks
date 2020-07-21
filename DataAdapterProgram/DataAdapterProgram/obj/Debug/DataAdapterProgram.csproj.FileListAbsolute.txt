@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\2\LABS\LAB4\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+C:\Users\User\Desktop\2\LABS\LAB4\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+C:\Users\User\Desktop\2\LABS\LAB4\DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+C:\Users\User\Desktop\2\LABS\LAB4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2\LABS\LAB4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+C:\Users\User\Desktop\2\LABS\LAB4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+C:\Users\User\Desktop\2\LABS\LAB4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2\LABS\LAB4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2\LABS\LAB4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+C:\Users\User\Desktop\2\LABS\LAB4\DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb
