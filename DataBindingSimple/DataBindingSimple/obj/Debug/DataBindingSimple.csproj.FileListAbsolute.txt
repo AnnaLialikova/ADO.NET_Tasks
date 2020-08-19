@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\2\LABS\LAB5\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe.config
+C:\Users\User\Desktop\2\LABS\LAB5\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.exe
+C:\Users\User\Desktop\2\LABS\LAB5\DataBindingSimple\DataBindingSimple\bin\Debug\DataBindingSimple.pdb
+C:\Users\User\Desktop\2\LABS\LAB5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2\LABS\LAB5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Properties.Resources.resources
+C:\Users\User\Desktop\2\LABS\LAB5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2\LABS\LAB5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2\LABS\LAB5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.exe
+C:\Users\User\Desktop\2\LABS\LAB5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.pdb
+C:\Users\User\Desktop\2\LABS\LAB5\DataBindingSimple\DataBindingSimple\obj\Debug\DataBindingSimple.Form1.resources
