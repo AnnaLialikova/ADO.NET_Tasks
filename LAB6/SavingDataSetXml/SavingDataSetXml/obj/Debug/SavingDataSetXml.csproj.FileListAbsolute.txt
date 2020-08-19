@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\2\LABS\LAB6\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+C:\Users\User\Desktop\2\LABS\LAB6\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+C:\Users\User\Desktop\2\LABS\LAB6\SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+C:\Users\User\Desktop\2\LABS\LAB6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csprojAssemblyReference.cache
+C:\Users\User\Desktop\2\LABS\LAB6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+C:\Users\User\Desktop\2\LABS\LAB6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+C:\Users\User\Desktop\2\LABS\LAB6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+C:\Users\User\Desktop\2\LABS\LAB6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\2\LABS\LAB6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+C:\Users\User\Desktop\2\LABS\LAB6\SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb
